@@ -19,7 +19,7 @@ const Footer = () => {
         </div>
 
         <div className='flex items-center gap-2  '>
-          Created With <img className='w-5' src="/icons/Red heart.svg" alt="" />by MR PATRA
+          Created With <img className='w-7 hover:animate-bounce' src="/icons/heart.png" alt="" /> by <p className='font-semibold  hover:font-bold  '>MR PATRA</p>
         </div>
 
 
